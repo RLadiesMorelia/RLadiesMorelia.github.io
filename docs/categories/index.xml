@@ -2,52 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on RLadies</title>
-    <link>/categories/</link>
+    <link>//localhost:4999/categories/</link>
     <description>Recent content in Categories on RLadies</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Theme Features</title>
-      <link>/categories/theme-features/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/categories/theme-features/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Evergreen</title>
-      <link>/categories/evergreen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/categories/evergreen/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:4999/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Workshop</title>
-      <link>/categories/workshop/</link>
+      <link>//localhost:4999/categories/workshop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/categories/workshop/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>R</title>
-      <link>/categories/r/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/categories/r/</guid>
+      <guid>//localhost:4999/categories/workshop/</guid>
       <description></description>
     </item>
     <item>
       <title>Meetup</title>
-      <link>/categories/meetup/</link>
+      <link>//localhost:4999/categories/meetup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/categories/meetup/</guid>
+      <guid>//localhost:4999/categories/meetup/</guid>
       <description></description>
     </item>
     <item>
       <title>Package</title>
-      <link>/categories/package/</link>
+      <link>//localhost:4999/categories/package/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/categories/package/</guid>
+      <guid>//localhost:4999/categories/package/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>R</title>
+      <link>//localhost:4999/categories/r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4999/categories/r/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Theme Features</title>
+      <link>//localhost:4999/categories/theme-features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4999/categories/theme-features/</guid>
       <description></description>
     </item>
   </channel>

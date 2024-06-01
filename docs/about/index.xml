@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on RLadies</title>
-    <link>/about/</link>
+    <link>//localhost:4999/about/</link>
     <description>Recent content in About on RLadies</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4999/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
