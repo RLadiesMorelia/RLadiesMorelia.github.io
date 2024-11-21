@@ -1,0 +1,27 @@
+---
+title: Prueba2
+author: Haydeé Peruyero
+date: '2024-11-21'
+slug: prueba2
+categories: []
+tags: []
+---
+
+Vamos a insertar una imagen:
+
+![Mi primer imagen](logo.png)
+
+```{r}
+data(iris)
+summary(iris)
+```
+
+```{r, echo=FALSE}
+library(ggplot2)
+
+plot <- ggplot(iris, aes(x = Sepal.Length, y = Sepal.Width, color = Species)) +
+  geom_point() +
+  labs(title = "Gráfico de dispersión de Iris", x = "Longitud del sépalo", y = "Ancho del sépalo")
+
+plot
+```
