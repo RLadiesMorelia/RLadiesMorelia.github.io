@@ -24,12 +24,8 @@ sections:
 - block: markdown
   content:
     subtitle: ""
-    text: "Use this area to speak to your mission. I'm a research scientist in the
-      Moonshot team at DeepMind. I blog about machine learning, deep learning, and
-      moonshots.\n\nI apply a range of qualitative and quantitative methods to comprehensively
-      investigate the role of science and technology in the economy.\n\nPlease reach
-      out to collaborate \U0001F603"
-    title: "\U0001F4DA My Research"
+    text: "This is a local chapter of R-Ladies Global ( https://www.rladies.org), an organization that promotes gender diversity in the R community worldwide. We meetup in person or virtually to learn about the R programming language, algorithms and advanced tools.\n\nR-Ladies welcomes members of all R proficiency levels, whether you’re a new or aspiring R user, or an experienced R programmer interested in mentoring, networking & expert upskilling. Our community is designed to develop our members’ R skills & knowledge through social, collaborative learning & sharing, supporting minority identity access to STEM skills & careers, the Free Software Movement, and contributing to the global R community! \U0001F603"
+    title: "\U0001F4DA ¿De qué se trata R Ladies?"
   design:
     columns: "1"
 - block: collection
@@ -78,7 +74,7 @@ sections:
     order: desc
     page_type: post
     subtitle: ""
-    text: ""
+    text: "Aquí veremos nuestros últimos posts"
     title: Recent News
   design:
     spacing:

@@ -26,43 +26,43 @@ awards:
   title: Object-Oriented Programming in R
   url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
 education:
-- area: PhD Artificial Intelligence
+- area: Instructoras Software Carpentries
   button:
     text: Read Thesis
     url: https://example.com
   date_end: "2020-12-31"
   date_start: "2016-01-01"
-  institution: Stanford University
+  institution: The Carpentries
   summary: |
-    Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-- area: MEng Artificial Intelligence
+    Varias integrantes de la comunidad se certificaron en The Carpentries en 2023.
+- area: Educación
   date_end: "2020-12-31"
   date_start: "2016-01-01"
-  institution: Massachusetts Institute of Technology
+  institution: The Carpentries
   summary: |
-    GPA: 3.8/4.0
+    GPA: 10 / 10
 
     Courses included:
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-- area: BSc Artificial Intelligence
+    - Curso 1
+    - Curso 2
+    - Curso 3
+- area: R 
   date_end: "2020-12-31"
   date_start: "2016-01-01"
-  institution: Massachusetts Institute of Technology
+  institution: The Carpentries
   summary: |
-    GPA: 3.4/4.0
+    GPA: 10/10
 
     Courses included:
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - R 
+    - ggplot
+    - tidyverse
 first_name: Shiung Wu
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Supporting minority identity access to STEM skills & careers
+- Develop our members’ R skills 
+- Collaborative learning & sharing
 languages:
 - name: English
   percent: 100
@@ -70,88 +70,77 @@ languages:
   percent: 75
 - name: Portuguese
   percent: 25
-last_name: Chien
-name_pronunciation: Chien Shiung Wu
+last_name: Morelia
+name_pronunciation: R Ladies Morelia
 organizations:
-- name: OpenAI
-  url: https://openai.com/
+- name: R Ladies Morelia
+  url: https://r-ladies-morelia.github.io/
 profiles:
-- icon: at-symbol
-  label: E-mail Me
-  url: mailto:your-email@example.com
-- icon: brands/x
-  url: https://twitter.com/GetResearchDev
 - icon: brands/instagram
   url: https://www.instagram.com/
 - icon: brands/github
   url: https://github.com/gcushen
-- icon: brands/linkedin
-  url: https://www.linkedin.com/
-- icon: academicons/google-scholar
-  url: https://scholar.google.com/
-- icon: academicons/orcid
-  url: https://orcid.org/
-role: Chief Scientist
+role: Creadoras
 skills:
 - items:
   - description: ""
     icon: code-bracket
-    name: Python
-    percent: 80
+    name: R
+    percent: 100
   - description: ""
     icon: chart-bar
     name: Data Science
     percent: 100
   - description: ""
-    icon: circle-stack
-    name: SQL
-    percent: 40
-  name: Technical Skills
+    icon: code-bracket
+    name: Python
+    percent: 90
+  name: Skills
 - color: '#eeac02'
   color_border: '#f0bf23'
   items:
-  - description: ""
-    icon: person-simple-walk
-    name: Hiking
-    percent: 60
   - description: ""
     icon: cat
     name: Cats
     percent: 100
   - description: ""
+    icon: person-simple-walk
+    name: Reuniones
+    percent: 60
+  - description: ""
     icon: camera
-    name: Photography
+    name: Redes Sociales
     percent: 80
   name: Hobbies
 status:
   icon: ☕️
 superuser: true
-title: 吳健雄
+title: Comunidad
 work:
 - company_logo: ""
-  company_name: GenCoin
+  company_name: R
   company_url: ""
   date_end: ""
-  date_start: "2021-01-01"
-  position: Director of Cloud Infrastructure
+  date_start: "2022-01-01"
+  position: Organizadoras de R Ladies Morelia
   summary: |-
     Responsibilities include:
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - Organizar
+    - Difundir
+    - Crear
 - company_logo: ""
-  company_name: X
+  company_name: Software Carpentry
   company_url: ""
-  date_end: "2020-12-31"
-  date_start: "2016-01-01"
-  position: Backend Software Engineer
+  date_end: "2023-12-31"
+  date_start: "2023-09-01"
+  position: Instructoras
   summary: |
     Responsibilities include:
-    - Migrated infrastructure to a new data center
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - Crear cursos
+    - Practicar
+    - etc
 ---
 
-## About Me
+## Sobre R Ladies Morelia
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Bienvenidas a R ladies capítulo Morelia. Solemos tener una reunión híbrida al mes para aprender R. Eres bienvenida a aprender. En esta página encontrarás material de las sesiones de R-Ladies Morelia.
