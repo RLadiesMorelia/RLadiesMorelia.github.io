@@ -42,16 +42,6 @@ sections:
 - block: collection
   content:
     filters:
-      exclude_featured: false
-      folders:
-      - publication
-    text: ""
-    title: Recent Publications
-  design:
-    view: citation
-- block: collection
-  content:
-    filters:
       folders:
       - event
     title: Recent & Upcoming Talks
